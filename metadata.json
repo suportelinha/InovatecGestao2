@@ -1,0 +1,6 @@
+{
+  "name": "INOVATEC - Gestão de Estoque e Vendas",
+  "description": "Sistema completo de gestão de estoque, entradas, saídas, vendas e relatórios em tempo real com cálculo de custo médio e faturamento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
